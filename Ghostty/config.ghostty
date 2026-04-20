@@ -1,0 +1,22 @@
+theme = rose-pine
+quit-after-last-window-closed = true
+quick-terminal-animation-duration = 1
+window-padding-x = 18
+window-padding-y = 18
+#window-padding-color = extend
+#window-padding-balance = true
+background-opacity = 0.95
+background = 191724
+#window-padding-balance = false
+macos-titlebar-style = native
+font-family = JetBrains Mono
+font-size = 12
+font-thicken = true
+font-thicken-strength = 255
+
+
+##background = 192019
+window-inherit-working-directory = false
+confirm-close-surface = false
+resize-overlay = never
+scrollback-limit = 20000000
